@@ -1,0 +1,21 @@
+{
+    "author": "mitake.ck+pebble@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test2",
+    "pebble": {
+        "displayName": "test2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "5ee24631-b911-4888-9319-1a55d2662038",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
